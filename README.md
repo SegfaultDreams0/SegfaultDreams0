@@ -1,6 +1,6 @@
 <h2 align="center">Welcome to My GitHub! 🌙</h2>
 
-<h2 align="center">Akene Bighnika</h2>
+<h2 align="center">I'm Akene Bighnika</h2>
 
 <p align="center">
   <i>Applied Mathematics · Computational Physics · Systems Engineering · Robotics</i>
